@@ -6,6 +6,7 @@ I'm a 3rd year undergraduate computer science student at UFCG and developer/rese
 
 
 🌱 I’m currently learning golang and concurrent programming
+
 🚀 I have experience with building CLI applications with golang and some other cool things like containers, docker and kubenetes
 
 
