@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-I'm a 3rd year undergraduate computer science student at UFCG and developer/researcher at LSD 🚀 having an experience of building CLI applications with golang and some other cool things like containers, docker and kubenetes
+I'm a 3rd year undergraduate computer science student at UFCG and developer/researcher at LSD 🚀
+
+
 
 
 🌱 I’m currently learning golang and concurrent programming
+🚀 I have experience with building CLI applications with golang and some other cool things like containers, docker and kubenetes
+
 
 <!--
 **viniciusbds/viniciusbds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
