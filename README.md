@@ -7,7 +7,7 @@ I'm a 3rd year undergraduate computer science student at UFCG and developer/rese
 
 🚀 I have experience with building CLI applications with golang and some other cool things like containers, docker and kubenetes
 
---------------------------
+### Social networks
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/viniciusbds)](https://github.com/viniciusbds)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusbds/)](https://www.linkedin.com/in/viniciusbds/)
