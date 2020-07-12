@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm a 3rd year undergraduate computer science student at UFCG and developer/researcher at LSD 🚀
-
+🌱 I'm a 3rd year undergraduate computer science student at UFCG and developer/researcher at LSD
 
 🚀 I have experience with with golang and some other cool things like containers, docker and kubenetes
 
