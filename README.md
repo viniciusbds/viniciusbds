@@ -1,12 +1,16 @@
 
-🔭 3rd year undergraduate computer science student at UFCG and developer/researcher at LSD.
+🔭 3rd year undergraduate computer science student at UFCG and software developer at VIRTUS.
 
 ### Stats
+
+<!--
+13
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbds&layout=compact)   
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=viniciusbds&show_icons=true&theme=default)  
 
+-->
 
 ### Social networks
 <!--
